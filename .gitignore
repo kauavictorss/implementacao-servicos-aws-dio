@@ -1,0 +1,44 @@
+# IDEs e Editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Arquivos do sistema
+Thumbs.db
+Desktop.ini
+
+# Arquivos de backup
+*.bak
+*.backup
+*~
+
+# Node.js (caso adicione scripts)
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (caso adicione scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Arquivos pessoais/rascunhos
+rascunhos/
+notas.txt
+TODO.md

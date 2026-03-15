@@ -2,7 +2,7 @@
 
 ## 📋 Sobre o Desafio
 
-Este projeto faz parte do desafio proposto pela [Digital Innovation One (DIO)](https://www.dio.me/) com o objetivo de demonstrar conhecimento prático em serviços da AWS aplicados à redução de custos operacionais. O desafio consiste em:
+Este projeto foi desenvolvido como um desafio prático dentro do **Bootcamp Accenture - Desenvolvimento Java & Cloud** da **[Digital Innovation One (DIO)](https://www.dio.me/)**, com o objetivo de demonstrar conhecimento prático em serviços da AWS aplicados à redução de custos operacionais. O desafio consiste em:
 
 - Criar um repositório próprio no GitHub para documentar o projeto
 - Selecionar 3 serviços AWS com foco em redução de custos
@@ -11,7 +11,8 @@ Este projeto faz parte do desafio proposto pela [Digital Innovation One (DIO)](h
 
 ## 🎯 Objetivo do Projeto
 
-Demonstrar conhecimento em serviços AWS e sua aplicação prática para otimização de custos empresariais através da escolha estratégica de ferramentas cloud computing na empresa fictícia **Abstergo Industries**.
+Demonstrar as competências adquiridas no bootcamp através da aplicação estratégica de ferramentas de cloud computing na
+empresa fictícia **Abstergo Industries**, visando a otimização de custos empresariais.
 
 ## 🚀 Serviços AWS Implementados
 
@@ -34,7 +35,8 @@ Este projeto documenta a implementação de 3 serviços AWS estratégicos para r
 ## 📄 Documentação
 
 - **[📋 Modelo do Relatório](modelo-relatorio.md)** - Template original do desafio DIO
-- **[📊 Relatório de Implementação](RELATORIO-IMPLEMENTACAO.md)** - Documento completo com as 3 etapas de implementação, casos de uso detalhados e conclusões
+- **[📊 Relatório de Implementação](RELATORIO-IMPLEMENTACAO.md)** - Documento completo com as 3 etapas de implementação,
+  casos de uso detalhados e conclusões
 
 ## 💡 Resultados Esperados
 
@@ -60,9 +62,9 @@ A implementação dos serviços AWS na Abstergo Industries tem como meta:
   <br><br>
   <strong>Kauã Victor Silva dos Santos</strong>
   <br><br>
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-kauavictorss-181717?style=for-the-badge&logo=github)](https://github.com/kauavictorss)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauã_Victor-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaua-victor-santos/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-kauavictorss-181717?style=for-the-badge&logo=github)](https://github.com/kauavictorss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauã_Victor-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaua-victor-santos/)
 </div>
 
 ## 📝 Licença
@@ -71,16 +73,18 @@ Este projeto está sob a licença especificada no arquivo [LICENSE](LICENSE).
 
 ## 🎓 Certificação DIO
 
-Projeto desenvolvido como parte do bootcamp/curso da Digital Innovation One.
+Projeto desenvolvido como parte do **Bootcamp Accenture - Desenvolvimento Java & Cloud** da **Digital Innovation One**, com foco em desenvolvimento Java e serviços de computação em nuvem AWS.
 
-[![DIO](https://img.shields.io/badge/Digital_Innovation_One-DIO-8A2BE2?style=for-the-badge)](https://www.dio.me/)
+[![Certificado DIO](https://img.shields.io/badge/Certificado-Digital_Innovation_One-8A2BE2?style=for-the-badge&logo=douban)](https://www.dio.me/certificate/OQOUEZUP/share)
+
+> **[Visualizar Certificado Oficial](https://www.dio.me/certificate/OQOUEZUP/share)**
 
 ---
 
 <div align="center">
-  
-  ### ⭐ Se este projeto te ajudou de alguma forma, considere dar uma estrela!
-  
-  **Desafio DIO - Relatório de Implementação de Serviços AWS**
-  
+
+### ⭐ Se este projeto te ajudou de alguma forma, considere dar uma estrela!
+
+**Desafio DIO - Relatório de Implementação de Serviços AWS**
+
 </div>

@@ -77,8 +77,6 @@ Projeto desenvolvido como parte do **Bootcamp Accenture - Desenvolvimento Java &
 
 [![Certificado DIO](https://img.shields.io/badge/Certificado-Digital_Innovation_One-8A2BE2?style=for-the-badge&logo=douban)](https://www.dio.me/certificate/OQOUEZUP/share)
 
-> **[Visualizar Certificado Oficial](https://www.dio.me/certificate/OQOUEZUP/share)**
-
 ---
 
 <div align="center">
